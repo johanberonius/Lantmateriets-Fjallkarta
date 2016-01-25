@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lantmäteriets Fjällkarta</title>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<script type="text/javascript" src="https://maps.google.com/maps/api/js"></script>
+<script type="text/javascript">
+function init() {
+    var mapMinZoom = 5;
+    var mapMaxZoom = 12;
+
+    var map = new google.maps.Map(document.getElementById("map"), {
+        streetViewControl: false,
+        center: new google.maps.LatLng(65.0469730033129, 16.8471242003942),
+        zoom: 6
+    });
+
+    map.overlayMapTypes.insertAt(0, new google.maps.ImageMapType({
+        getTileUrl: function(coord, zoom) {
+            zoom--;
+            if (mapMinZoom <= zoom && zoom <= mapMaxZoom)
+                return "tiles/" + zoom + "/" + coord.x + "/" + coord.y + ".jpg";
+            else
+                return "none.png";
+        },
+        tileSize: new google.maps.Size(512, 512),
+    }));
+}
+</script>
+<style>
+  html, body, #map { width:100%; height:100%; margin:0; padding:0; }
+</style>
+</head>
+<body onload="init()">
+<div id="map"></div>
+</body>
+</html>
