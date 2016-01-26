@@ -6,11 +6,11 @@ Lantmäteriets Fjällkarta (Swedish mountain map) reprojected to WGS84 as a "Til
 ## Galileo-app
 [Galileo](https://galileo-app.com/) makes in easy to zoom and pan seamlessly in tiled web maps. It also saves all downloaded tiles for offline use.
 
-### Install the app
+#### Install the app
 The app can be found [for iOS here](https://itunes.apple.com/us/app/galileo-offline-maps-osm-based/id321745474)
 and [for Android here](https://play.google.com/store/apps/details?id=com.bodunov.galileo).
 
-### Add map source
+#### Add map source
 To add a custom map source, open the map source [Lantmäteriets Fjällkarta for Galileo-app](https://db.tt/vikFZZaW) in the browser on the device and select "Open in Galileo".
 
 ## Google Maps
