@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>07-6-1-27.kml</name>
+		<GroundOverlay>
+			<name>07-6-1-27.jpg</name>
+			<Region>
+				<LatLonAltBox>
+					<north>68.0324929210677</north>
+					<south>68.0198444324476</south>
+					<west>20.3781419532849</west>
+					<east>20.5276235944645</east>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>320</minLodPixels>
+					<maxLodPixels>2688</maxLodPixels>
+					<minFadeExtent>42</minFadeExtent>
+					<maxFadeExtent>512</maxFadeExtent>
+				</Lod>
+			</Region>
+			<drawOrder>6</drawOrder>
+			<Icon>
+				<href>07-6-1-27.jpg</href>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>20.3817864159473,68.0239133342319,0 20.5258699890073,68.0198444324476,0 20.5276235944645,68.0284222689157,0 20.383486949339,68.0324929210677,0</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+	</Document>
+</kml>

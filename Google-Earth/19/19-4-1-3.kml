@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>19-4-1-3.kml</name>
+		<GroundOverlay>
+			<name>19-4-1-3.jpg</name>
+			<Region>
+				<LatLonAltBox>
+					<north>65.4374035906816</north>
+					<south>65.3520749441863</south>
+					<west>14.7949772281449</west>
+					<east>14.9996764775732</east>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>320</minLodPixels>
+					<maxLodPixels>2688</maxLodPixels>
+					<minFadeExtent>42</minFadeExtent>
+					<maxFadeExtent>512</maxFadeExtent>
+				</Lod>
+			</Region>
+			<drawOrder>4</drawOrder>
+			<Icon>
+				<href>19-4-1-3.jpg</href>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>14.7982104858563,65.3520749441863,0 14.9996764775732,65.3532857553185,0 14.9970892010716,65.4374035906816,0 14.7949772281449,65.4361880929445,0</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+	</Document>
+</kml>

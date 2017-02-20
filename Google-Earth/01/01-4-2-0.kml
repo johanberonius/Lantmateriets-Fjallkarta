@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>01-4-2-0.kml</name>
+		<GroundOverlay>
+			<name>01-4-2-0.jpg</name>
+			<Region>
+				<LatLonAltBox>
+					<north>69.0723192091874</north>
+					<south>68.9982231146463</south>
+					<west>19.956762481889</west>
+					<east>20.1636766784096</east>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>320</minLodPixels>
+					<maxLodPixels>2688</maxLodPixels>
+					<minFadeExtent>42</minFadeExtent>
+					<maxFadeExtent>512</maxFadeExtent>
+				</Lod>
+			</Region>
+			<drawOrder>4</drawOrder>
+			<Icon>
+				<href>01-4-2-0.jpg</href>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>19.956762481889,69.0030265921427,0 20.1499354414092,68.9982231146463,0 20.1636766784096,69.0674983674542,0 19.9698970150525,69.0723192091874,0</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+	</Document>
+</kml>

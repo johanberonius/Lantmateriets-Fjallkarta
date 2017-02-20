@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>14-5-3-15.kml</name>
+		<GroundOverlay>
+			<name>14-5-3-15.jpg</name>
+			<Region>
+				<LatLonAltBox>
+					<north>66.5570960616934</north>
+					<south>66.487839907922</south>
+					<west>17.612630076839</west>
+					<east>17.7862851956015</east>
+				</LatLonAltBox>
+				<Lod>
+					<minLodPixels>320</minLodPixels>
+					<maxLodPixels>2688</maxLodPixels>
+					<minFadeExtent>42</minFadeExtent>
+					<maxFadeExtent>512</maxFadeExtent>
+				</Lod>
+			</Region>
+			<drawOrder>5</drawOrder>
+			<Icon>
+				<href>14-5-3-15.jpg</href>
+			</Icon>
+			<gx:LatLonQuad>
+				<coordinates>17.612630076839,66.4898744432329,0 17.7809484687919,66.487839907922,0 17.7862851956015,66.5550550073731,0 17.6175125400795,66.5570960616934,0</coordinates>
+			</gx:LatLonQuad>
+		</GroundOverlay>
+	</Document>
+</kml>

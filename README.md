@@ -17,7 +17,7 @@ To add a custom map source, open the map source [Lantmäteriets Fjällkarta for 
 A map overlay for Google Maps for desktop or mobile browsers can be found here: [Lantmäteriets Fjällkarta for Google Maps](https://db.tt/1tYS2RGQ)
 
 ## Google Earth
-The map can also be found as a "Super Overlay" for Google Earth here: [Lantmäteriets Fjällkarta for Google Earth](https://db.tt/6NIZL0tq)
+The map can also be found as a "Super Overlay" for Google Earth here: [Lantmäteriets Fjällkarta for Google Earth](https://johanberonius.github.io/Lantmateriets-Fjallkarta/Google-Earth/index.kml)
 
 ## About tiled web maps
 Read about [tiled web maps on Wikipedia](https://en.wikipedia.org/wiki/Tiled_web_map).
