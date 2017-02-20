@@ -1,7 +1,7 @@
 # Lantmäteriets Fjällkarta
 Lantmäteriets Fjällkarta (Swedish mountain map) reprojected to WGS84 as a "Tiled web map" for Galileo-app, OpenStreetMap and Google Maps.
 
-![Lantmäteriets Fjällkarta](https://johanberonius.github.io/Lantmateriets-Fjallkarta/fjallkartan.jpg)
+[![Lantmäteriets Fjällkarta](https://johanberonius.github.io/Lantmateriets-Fjallkarta/fjallkartan.jpg)](https://johanberonius.github.io/Lantmateriets-Fjallkarta/fjallkartan.html)
 
 ## Galileo-app
 [Galileo](https://galileo-app.com/) makes in easy to zoom and pan seamlessly in tiled web maps. It also saves all downloaded tiles for offline use.
