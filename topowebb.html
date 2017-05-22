@@ -37,12 +37,12 @@ function init() {
     map.overlayMapTypes.insertAt(1, new google.maps.ImageMapType({
         opacity: 0.6,
         getTileUrl: function(tile, zoom) {
-            var imageurl3 = "http://chart.apis.google.com/chart?chst=d_text_outline&chs=512x512&chf=bg,s,00000011&chld=FFFFFF|32|h|000000|b|";
-            var imageurl4 = "http://chart.apis.google.com/chart?chst=d_text_outline&chs=512x512&chf=bg,s,ffffff00&chld=FFFFFF|32|h|000000|b|";
+            var imageurl3 = "https://chart.apis.google.com/chart?chst=d_text_outline&chs=512x512&chf=bg,s,00000011&chld=FFFFFF|32|h|000000|b|";
+            var imageurl4 = "https://chart.apis.google.com/chart?chst=d_text_outline&chs=512x512&chf=bg,s,ffffff00&chld=FFFFFF|32|h|000000|b|";
 
             if (tile.x < 0 || tile.y < 0 ||
                 tile.x >= (1 << zoom) || tile.y >= (1 << zoom))
-                return "http://chart.apis.google.com/chart?chst=d_text_outline&chs=512x512&chf=bg,s,ffffff99&chld=FFFFFF|32|h|000000|b|";
+                return "https://chart.apis.google.com/chart?chst=d_text_outline&chs=512x512&chf=bg,s,ffffff99&chld=FFFFFF|32|h|000000|b|";
 
             if ((tile.x % 2 && !(tile.y % 2)) ||
                 (!(tile.x % 2) && tile.y % 2)) {
