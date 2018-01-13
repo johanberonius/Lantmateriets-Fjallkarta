@@ -1,0 +1,12 @@
+{
+  "name": "Maptiles",
+  "version": "1.0.0",
+  "description": "",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "11",
+  "maxzoom": "14",
+  "bounds": "15.91734948,61.57956062,16.02964694,61.65385012",
+  "scale": "1",
+  "profile": "mercator"
+}
