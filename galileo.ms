@@ -3,5 +3,5 @@
 <name>Lantmäteriets Fjällkarta</name>
 <minZoom>5</minZoom>
 <maxZoom>12</maxZoom>
-<url>https://johanberonius.github.io/Lantmateriets-Fjallkarta/tiles/{$z}/{$x}/{$y}.jpg</url>
+<url>https://git.beroni.us/Lantmateriets-Fjallkarta/tiles/{$z}/{$x}/{$y}.jpg</url>
 </customMapSource>

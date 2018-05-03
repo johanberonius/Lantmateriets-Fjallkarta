@@ -1,7 +1,7 @@
 # Lantmäteriets Fjällkarta
 Lantmäteriets Fjällkarta (Swedish mountain map) reprojected to WGS84 as a "Tiled web map" for Galileo-app, OpenStreetMap and Google Maps.
 
-[![Lantmäteriets Fjällkarta](https://johanberonius.github.io/Lantmateriets-Fjallkarta/fjallkartan.jpg)](https://johanberonius.github.io/Lantmateriets-Fjallkarta/fjallkartan.html)
+[![Lantmäteriets Fjällkarta](https://git.beroni.us/Lantmateriets-Fjallkarta/fjallkartan.jpg)](https://git.beroni.us/Lantmateriets-Fjallkarta/fjallkartan.html)
 
 ## Galileo-app
 [Galileo](https://galileo-app.com/) makes in easy to zoom and pan seamlessly in tiled web maps. It also saves all downloaded tiles for offline use.
@@ -11,13 +11,13 @@ The app can be found [for iOS here](https://itunes.apple.com/us/app/galileo-offl
 and [for Android here](https://play.google.com/store/apps/details?id=com.bodunov.galileo).
 
 #### Add map source
-To add a custom map source, open the map source [Lantmäteriets Fjällkarta for Galileo-app](https://johanberonius.github.io/Lantmateriets-Fjallkarta/galileo.ms) in the browser on the device and select "Open in Galileo".
+To add a custom map source, open the map source [Lantmäteriets Fjällkarta for Galileo-app](https://git.beroni.us/Lantmateriets-Fjallkarta/galileo.ms) in the browser on the device and select "Open in Galileo".
 
 ## Google Maps
-A map overlay for Google Maps for desktop or mobile browsers can be found here: [Lantmäteriets Fjällkarta for Google Maps](https://johanberonius.github.io/Lantmateriets-Fjallkarta/fjallkartan.html)
+A map overlay for Google Maps for desktop or mobile browsers can be found here: [Lantmäteriets Fjällkarta for Google Maps](https://git.beroni.us/Lantmateriets-Fjallkarta/fjallkartan.html)
 
 ## Google Earth
-The map can also be found as a "Super Overlay" for Google Earth here: [Lantmäteriets Fjällkarta for Google Earth](https://johanberonius.github.io/Lantmateriets-Fjallkarta/Google-Earth.kml)
+The map can also be found as a "Super Overlay" for Google Earth here: [Lantmäteriets Fjällkarta for Google Earth](https://git.beroni.us/Lantmateriets-Fjallkarta/Google-Earth.kml)
 
 ## About tiled web maps
 Read about [tiled web maps on Wikipedia](https://en.wikipedia.org/wiki/Tiled_web_map).

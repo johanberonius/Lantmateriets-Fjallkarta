@@ -5,7 +5,7 @@
     <NetworkLink>
         <name>Lantmäteriets Fjällkarta</name>
         <Link>
-            <href>https://johanberonius.github.io/Lantmateriets-Fjallkarta/Google-Earth/index.kml</href>
+            <href>https://git.beroni.us/Lantmateriets-Fjallkarta/Google-Earth/index.kml</href>
         </Link>
     </NetworkLink>
 </Document>

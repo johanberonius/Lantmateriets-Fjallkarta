@@ -10,7 +10,7 @@
 <minZoom>11</minZoom>
 <maxZoom>14</maxZoom>
 <retina>2</retina>
-<url>https://johanberonius.github.io/Lantmateriets-Fjallkarta/Sparkarta-Harsagarden/{$z}/{$x}/{$y}.png</url>
+<url>https://git.beroni.us/Lantmateriets-Fjallkarta/Sparkarta-Harsagarden/{$z}/{$x}/{$y}.png</url>
 </layer>
 </layers>
 </customMapSource>

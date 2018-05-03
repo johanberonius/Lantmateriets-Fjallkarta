@@ -10,7 +10,7 @@
 <minZoom>9</minZoom>
 <maxZoom>14</maxZoom>
 <retina>2</retina>
-<url>https://johanberonius.github.io/Lantmateriets-Fjallkarta/Turkarta-Vemdalen/{$z}/{$x}/{$y}.png</url>
+<url>https://git.beroni.us/Lantmateriets-Fjallkarta/Turkarta-Vemdalen/{$z}/{$x}/{$y}.png</url>
 </layer>
 </layers>
 </customMapSource>
