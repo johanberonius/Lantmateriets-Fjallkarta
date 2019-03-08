@@ -23,7 +23,9 @@ function init() {
                 var y = coord.y - 3 * (1 << z);
 
                 if (x >= 0 && y >= 0)
-                    return "https://api.lantmateriet.se/open/topowebb-ccby/v1/wmts/token/7b111f71a9757bdab87671e034ee4977/1.0.0/topowebb/default/3006/" + z + "/" + y + "/" + x + ".png";
+                    // return "https://api.lantmateriet.se/open/topowebb-ccby/v1/wmts/token/7b111f71a9757bdab87671e034ee4977/1.0.0/topowebb/default/3006/" + z + "/" + y + "/" + x + ".png";
+                    // return "https://api.lantmateriet.se/open/topowebb-ccby/v1/wmts/token/7b111f71a9757bdab87671e034ee4977/1.0.0/topowebb/default/3857/" + zoom + "/" + coord.y + "/" + coord.x + ".png";
+                    return "https://kso.etjanster.lantmateriet.se/karta/topowebb/v1.1/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=topowebb&STYLE=default&TILEMATRIXSET=3857&TILEMATRIX=" + zoom + "&TILEROW=" + coord.y + "&TILECOL=" + coord.x + "&FORMAT=image/png";
                 else
                     return "none.png"
             } else {
