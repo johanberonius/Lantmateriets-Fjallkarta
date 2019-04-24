@@ -1,17 +1,20 @@
 # Lantmäteriets Fjällkarta
-Lantmäteriets Fjällkarta (Swedish mountain map) reprojected to WGS84 as a "Tiled web map" for Galileo-app, OpenStreetMap and Google Maps.
+Lantmäteriets Fjällkarta (Swedish mountain map) reprojected to WGS84 as a "Tiled web map" for Guru Maps-app, OpenStreetMap and Google Maps.
 
 [![Lantmäteriets Fjällkarta](https://git.beroni.us/Lantmateriets-Fjallkarta/fjallkartan.jpg)](https://git.beroni.us/Lantmateriets-Fjallkarta/fjallkartan.html)
 
-## Galileo-app
-[Galileo](https://galileo-app.com/) makes in easy to zoom and pan seamlessly in tiled web maps. It also saves all downloaded tiles for offline use.
+## Guru Maps
+[Guru Maps](https://gurumaps.app/) makes in easy to zoom and pan seamlessly in tiled web maps. It also saves all downloaded tiles for offline use.
 
 #### Install the app
 The app can be found [for iOS here](https://itunes.apple.com/us/app/galileo-offline-maps-osm-based/id321745474)
 and [for Android here](https://play.google.com/store/apps/details?id=com.bodunov.galileo).
 
 #### Add map source
-To add a custom map source, open the map source [Lantmäteriets Fjällkarta for Galileo-app](https://git.beroni.us/Lantmateriets-Fjallkarta/galileo.ms) in the browser on the device and select "Open in Galileo".
+To add a custom map source, open the map source [Lantmäteriets Fjällkarta for Guru Maps](https://custom-map-source.appspot.com/galileo-lantmateriets-fjallkarta.ms) in the browser on the device and select "Open in Guru Maps". Many other map sources can also be found here: https://custom-map-source.appspot.com/.
+
+#### Offline
+The complete map is available as one 400 MB file for offline use. Open the file [Lantmäteriets Fjällkarta for Guru Maps](https://drive.google.com/open?id=1pWaaIDBzilVCYp3gXEdLgCF8TNQ8DQnK) in the browser on the device and select "Open in Guru Maps".
 
 ## Google Maps
 A map overlay for Google Maps for desktop or mobile browsers can be found here: [Lantmäteriets Fjällkarta for Google Maps](https://git.beroni.us/Lantmateriets-Fjallkarta/fjallkartan.html)
